@@ -20,5 +20,8 @@
       - [upf](文档/网元/upf/menu.md)
       - [amf](文档/amf/menu.md)
   - [论文](论文)
+    - [general](论文/general/menu.md)
+    - [控制面](论文/控制面/menu.md)
+    - [用户面](论文/用户面/menu.md)
   - [代码](代码)
   - [Collaborators](Collaborators)
